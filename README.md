@@ -44,7 +44,10 @@ A property could be: font-size, border, color, etc...<br/>
     - Fill in the `color` argument whatever you like!
 4. Test out your button!
     - Try it with different `color` values.
-
+  
+   
+If you have extra time, continue to the Bonus Problems below.
+If not, make sure you submit your code [here](https://forms.gle/w1bCLQUBwWPEvjCf6).
 
 
 ## Bonus Problems: 
@@ -57,4 +60,4 @@ If you have finished and still have time, first of all **GOOD JOB!**
         3. On 2nd button click, the background will change to Blue.
         4. And so on... (Keeps switching between Yellow and Blue on every new click!)
 
-### make sure you submit your code here.
+### make sure you submit your code [here](https://forms.gle/Nr4qJdtusKzWHiBn9).
